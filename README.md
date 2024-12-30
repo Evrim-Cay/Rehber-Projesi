@@ -14,3 +14,5 @@ Bu proje, kullanıcıların kişisel bilgilerini kaydedebileceği bir rehber uyg
 - Vite
 - CSS (veya herhangi bir CSS çerçevesi)
 - (Gelecekte eklenebilir: API entegrasyonu, veritabanı desteği vb.)
+
+![RehberProjesi-GoogleChrome2024-12-2921-50-28-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3cc32cb6-ed4e-4064-b448-25c357e3d2e2)
